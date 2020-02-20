@@ -111,6 +111,9 @@ settings.json
 # images
 .jpg
 
+# ignoring the images folder
+fruits-360_dataset
+
 # Environments
 .env
 .venv
