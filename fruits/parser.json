@@ -1,0 +1,162 @@
+{
+  "text": "Tomato 4",
+  "parsed": [
+    {
+      "food": {
+        "foodId": "food_a6k79rrahp8fe2b26zussa3wtkqh",
+        "label": "tomato",
+        "nutrients": {
+          "ENERC_KCAL": 18.0,
+          "PROCNT": 0.88,
+          "FAT": 0.2,
+          "CHOCDF": 3.89,
+          "FIBTG": 1.2
+        },
+        "category": "Generic foods",
+        "categoryLabel": "food"
+      },
+      "quantity": 4.0,
+      "measure": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_unit",
+        "label": "Whole"
+      }
+    }
+  ],
+  "hints": [
+    {
+      "food": {
+        "foodId": "food_a6k79rrahp8fe2b26zussa3wtkqh",
+        "label": "tomato",
+        "nutrients": {
+          "ENERC_KCAL": 18.0,
+          "PROCNT": 0.88,
+          "FAT": 0.2,
+          "CHOCDF": 3.89,
+          "FIBTG": 1.2
+        },
+        "category": "Generic foods",
+        "categoryLabel": "food"
+      },
+      "measures": [
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_unit",
+          "label": "Whole",
+          "qualified": [
+            [
+              {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_large",
+                "label": "large"
+              },
+              {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_whole",
+                "label": "whole"
+              }
+            ],
+            [
+              {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_whole",
+                "label": "whole"
+              },
+              {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_small",
+                "label": "small"
+              }
+            ],
+            [
+              {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_medium",
+                "label": "medium"
+              },
+              {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_whole",
+                "label": "whole"
+              }
+            ]
+          ]
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+          "label": "Serving"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_tomato",
+          "label": "Tomato"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_bunch",
+          "label": "Bunch"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_half",
+          "label": "Half"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_plum",
+          "label": "Plum"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_wedge",
+          "label": "Wedge"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cherry",
+          "label": "Cherry"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_slice",
+          "label": "Slice",
+          "qualified": [
+            [
+              {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_medium",
+                "label": "medium"
+              }
+            ],
+            [
+              {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_thin",
+                "label": "thin"
+              }
+            ]
+          ]
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+          "label": "Gram"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+          "label": "Ounce"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+          "label": "Pound"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+          "label": "Kilogram"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_handful",
+          "label": "Handful"
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+          "label": "Cup",
+          "qualified": [
+            [
+              {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_sliced",
+                "label": "sliced"
+              },
+              {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_chopped",
+                "label": "chopped"
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
